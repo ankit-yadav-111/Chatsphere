@@ -95,7 +95,7 @@ const Logo = () => {
         {""}
       </svg>
 
-      <span className="text-3xl font-semibold">Synchronous</span>
+      <span className="text-3xl font-semibold">ChatSphere</span>
     </div>
   );
 };
